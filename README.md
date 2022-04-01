@@ -1,11 +1,12 @@
-### Hi there 👋
-
+### Chega mais sou o Joao Vitor
+- 🔭 Hoje eu trabalho com manutençao de computadores, gerenciamento de rede e servidores.
+-  📖 Estudando Python/php/java/ focando no Back-end
 <!--
 **JoaoVtArj/JoaoVtArj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
+🎖️
+-  I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
