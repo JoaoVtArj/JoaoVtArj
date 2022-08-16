@@ -1,7 +1,6 @@
 ### Chega mais sou o Joao Vitor
 - 🔭 No momento eu trabalho com manutençao de computadores, gerenciamento de rede e servidores.
--  📖 Me desempenhando cada vez mais nas linguagens Python/php/java/ focando em se tornar um Dev Back-end
--  ⚡ 
+-  📖 Me desempenhando cada vez mais nas linguagens Python/php/java/ focando em se tornar um Developer Back-end
 <!--
 **JoaoVtArj/JoaoVtArj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
