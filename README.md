@@ -1,4 +1,4 @@
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=JoaoVitor&show_icons=true&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&bg_color=4682B4&cache_seconds=2300" alt="ilustração do status do github">
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=JoaoVtArj&show_icons=true&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&bg_color=4682B4&cache_seconds=2300" alt="ilustração do status do github">
 
 ### Estudante de Ciencia da Computação com experiencia em Backend Java
 
